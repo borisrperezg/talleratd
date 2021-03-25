@@ -22,9 +22,9 @@ Los resultados de este estudio serán compartidos con quienes hayan marcado la o
 - [How do software architects perceive technical debt in Colombian industry? An analysis of technical debt causes](https://iopscience.iop.org/article/10.1088/1742-6596/1513/1/012003/meta)
 
 
-{{% notice note %}}
+
+
 <p style='text-align: left;'>
 Cualquier duda adicional, puede enviar un correo a br.perez41@uniandes.edu.co
 <br/>
 Gracias por su participación!!!</p>
-{{% /notice %}}

@@ -22,8 +22,8 @@ Posteriormente, se dará paso a los cuatro (4) escenarios de evaluación de la h
 
 En las siguientes subsecciones se presentará una explicación generalizada de la herramienta Rebel, y se presentarán los escenarios de evaluación, cada uno acompañado de un extracto de video donde se muestra el aspecto a evaluar. 
 
-{{% notice note %}}
+
 Se recomienda responder las preguntas del cuestionario, a medida que se avanza en cada sección.
-{{% /notice %}}
+
 
 Ingrese al **[cuestionario de evaluación](https://docs.google.com/forms/d/e/1FAIpQLSe3jCjy_yHfXv9BNscfzoNviGIvpYkzVxLxWY3m7UqTzX9sQQ/viewform?usp=sf_link)** y diligencie la información solicitada en las **preguntas 1** a **17**. Estas 17 preguntas corresponden a las primeras 3 secciones de caracterización del encuestado.
