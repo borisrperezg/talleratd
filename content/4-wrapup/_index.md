@@ -24,7 +24,6 @@ Los resultados de este estudio serán compartidos con quienes hayan marcado la o
 
 
 
-<p style='text-align: left;'>
 Cualquier duda adicional, puede enviar un correo a br.perez41@uniandes.edu.co
-<br/>
-Gracias por su participación!!!</p>
+
+**Gracias por su participación!!!**
