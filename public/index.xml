@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taller de ATD (Deuda Técnica en Arquitectura) on Taller de Deuda Técnica en Arquitectura</title>
+    <link>/</link>
+    <description>Recent content in Taller de ATD (Deuda Técnica en Arquitectura) on Taller de Deuda Técnica en Arquitectura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Oct 2020 18:28:43 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentación</title>
+      <link>/1-intro/1-presentation.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1-intro/1-presentation.html</guid>
+      <description>Este taller tiene como propósito evaluar la usabilidad y utilidad de la herramienta Rebel para identificar items de Deuda técnica en arquitectura (ATD)  a partir de analizar un conjunto de artefactos producidos durante la etapa de diseño de la arquitectura, y de analizar la evolución o cambios producidos entre versiones de modelos de arquitectura diseñados en Archimate . Este estudio hace parte de la investigación del trabajo de doctorado del estudiante Boris Pérez (br.</description>
+    </item>
+    
+    <item>
+      <title>ATD</title>
+      <link>/1-intro/2-atd.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1-intro/2-atd.html</guid>
+      <description>La Deuda Técnica en Arquitectura (ATD) es una metáfora utilizada para expresar el conjunto de decisiones de arquitectura que buscan favorecer ciertos objetivos a corto plazo, pero causando un impacto negativo en la calidad interna del sistema, como la mantenibilidad y capacidad de evolución. Típicamente, la ATD incluye Architecural Smells, uso de anti-patrones de arquitectura, violaciones de buenas prácticas arquitecturales, entre otros.
+El problema de la deuda aparece cuando no se documenta, y por lo tanto, se pierde de vista.</description>
+    </item>
+    
+    <item>
+      <title>Archimate</title>
+      <link>/1-intro/3-archimate.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1-intro/3-archimate.html</guid>
+      <description>Archimate es una especificación, para el modelado de arquitecturas empresariales. Provee un lenguaje visual con un conjunto de iconografías para describir, analizar, y comunicar aspectos de arquitectura de TI. El objetivo de Archimate es proveer una representación uniforme para expresar a los stakeholders, aspectos de modelado de la organización, así como decisiones de tecnología.
+Una de las ventajas de ArchiMate es que proporciona una representación visual y fomenta el uso de diferentes colores para resaltar las diferentes capas de modelado.</description>
+    </item>
+    
+    <item>
+      <title>Presentación</title>
+      <link>/3-scenarios/intro.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-scenarios/intro.html</guid>
+      <description>Este estudio evalúa la usabilidad y utilidad de la herramienta Rebel a partir de cuatro (4) escenarios de evaluación aplicados sobre la arquitectura del caso de estudio .
+La evaluación se realiza a través de un formulario de Google Forms, que inicia con tres (3) secciones que permitirán recopilar información técnica y de conocimiento de deuda técnica del participante. Estas tres secciones son independientes de los escenarios de evaluación de la herramienta.</description>
+    </item>
+    
+    <item>
+      <title>Rebel</title>
+      <link>/3-scenarios/tool.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-scenarios/tool.html</guid>
+      <description>Rebel es una herramienta semiautomática, basada en modelos, que se enfoca en la construcción de un modelo de clasificación binaria para la identificación de ATD, a partir de los artefactos producidos durante la etapa de diseño de la arquitectura del sistema. Este modelo identificará items candidatos de ATD y el arquitecto será el responsable de aceptar o rechazar los candidatos.
+Esta propuesta se centra en la TD a nivel de arquitectura, sin tener en cuenta el código fuente.</description>
+    </item>
+    
+    <item>
+      <title>E1: Preparación</title>
+      <link>/3-scenarios/1.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/3-scenarios/1.html</guid>
+      <description>Escenario 1: Preparación o carga de artefactos Este escenario se enfoca en las operaciones de carga de artefactos de varios tipos, o heterogéneos, y su asociación a un proyecto.
+Por favor responda las preguntas 18 a 23 después de observar el siguiente video:
+  </description>
+    </item>
+    
+    <item>
+      <title>E2: Entrenamiento</title>
+      <link>/3-scenarios/2.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/3-scenarios/2.html</guid>
+      <description>Escenario 2: Entrenamiento Este escenario se enfoca en la creación de un Bloque de Interés (BoI), dentro de un proyecto, y la identificación manual de casos de ATD. Esta información será luego utilizada para entrenar un modelo de machine learning que permita identificar de forma automática casos de ATD.
+Por favor responda las preguntas 24 a 41 después de observar el siguiente video:
+  </description>
+    </item>
+    
+    <item>
+      <title>E3: Identificación</title>
+      <link>/3-scenarios/3.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/3-scenarios/3.html</guid>
+      <description>Escenario 3: Identificación Este escenario se enfoca en cargar la identificación automática de casos de ATD, dentro de un BoI definido.
+Por favor responda las preguntas 42 a 49 después de observar el siguiente video:
+  </description>
+    </item>
+    
+    <item>
+      <title>E4: Generalidades</title>
+      <link>/3-scenarios/4.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/3-scenarios/4.html</guid>
+      <description>Escenario 4: Consideraciones generales Este escenario se enfoca en la usabilidad, interés y capacidad integración dentro de las organizaciones.
+Por favor responda las preguntas 50 a 57 después de observar el siguiente video:
+  </description>
+    </item>
+    
+  </channel>
+</rss>

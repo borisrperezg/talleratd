@@ -1,0 +1,113 @@
+[
+{
+	"uri": "/",
+	"title": "Taller de ATD (Deuda Técnica en Arquitectura)",
+	"tags": [],
+	"description": "",
+	"content": "Taller Deuda Técnica en Arquitectura (ATD) "
+},
+{
+	"uri": "/1-intro/1-presentation.html",
+	"title": "Presentación",
+	"tags": [],
+	"description": "",
+	"content": "Este taller tiene como propósito evaluar la usabilidad y utilidad de la herramienta Rebel para identificar items de Deuda técnica en arquitectura (ATD)  a partir de analizar un conjunto de artefactos producidos durante la etapa de diseño de la arquitectura, y de analizar la evolución o cambios producidos entre versiones de modelos de arquitectura diseñados en Archimate . Este estudio hace parte de la investigación del trabajo de doctorado del estudiante Boris Pérez (br.perez41@uniandes.edu.co ), bajo la dirección del profesor Darío Correal.\nDentro de este taller, usted evaluará esta herramienta a través de seis (6) escenarios, asignando una calificación en escala Likert sobre su nivel de acuerdo o desacuerdo con una declaración dada. Cada escenario incluirá un video corto que permitirá hacer énfasis en lo que se pretende evaluar. El desarrollo total del taller toma entre 50 y 60 minutos incluyendo el diligenciamiento de la encuesta.\nA continuación se presentarán dos conceptos, considerados clave, para entender la herramienta y la propuesta:\n Deuda técnica en arquitectura (ATD)  Archimate   "
+},
+{
+	"uri": "/1-intro.html",
+	"title": "Introducción",
+	"tags": [],
+	"description": "",
+	"content": "Capítulo 1 Introducción Presentación del objetivo y conceptos relevantes.\n"
+},
+{
+	"uri": "/1-intro/2-atd.html",
+	"title": "ATD",
+	"tags": [],
+	"description": "",
+	"content": "La Deuda Técnica en Arquitectura (ATD) es una metáfora utilizada para expresar el conjunto de decisiones de arquitectura que buscan favorecer ciertos objetivos a corto plazo, pero causando un impacto negativo en la calidad interna del sistema, como la mantenibilidad y capacidad de evolución. Típicamente, la ATD incluye Architecural Smells, uso de anti-patrones de arquitectura, violaciones de buenas prácticas arquitecturales, entre otros.\nEl problema de la deuda aparece cuando no se documenta, y por lo tanto, se pierde de vista. Cuando no se controla la deuda, esta puede afectar o ralentizar la incorporación de nuevo valor al producto. A raíz de esto, se vuelve clave que los equipos de software, encabezados por los arquitectos de software, puedan realizar seguimiento y gestión a los ítems de deuda técnica inyectados en el sistema. Para lograrlo, es indispensable partir por su identificación. Una vez identificada, el equipo de desarrollo podrá cuantificar su impacto, hacerle seguimiento, priorizarlos y eventualmente tomar la decisión de pagar la deuda (refactorizar o reescribir el código).\nLos enfoques actuales para la identificación de la ATD se basan principalmente en la revisión del código fuente, para identificar tipos de ATD, como la falta de modularización. Sin embargo, no es tan conveniente que el equipo de software deba esperar a tener la aplicación implementada para identificar casos de ATD. Otro enfoque de identificación de ATD consiste en organizar reuniones con los arquitectos en las cuales se revisen las decisiones tomadas y la deuda inyectada con cada una de estas. Este proceso es bastante exhaustivo y completo, pero consume mucho tiempo, y por lo tanto, no es conveniente para la organización.\n"
+},
+{
+	"uri": "/1-intro/3-archimate.html",
+	"title": "Archimate",
+	"tags": [],
+	"description": "",
+	"content": "Archimate es una especificación, para el modelado de arquitecturas empresariales. Provee un lenguaje visual con un conjunto de iconografías para describir, analizar, y comunicar aspectos de arquitectura de TI. El objetivo de Archimate es proveer una representación uniforme para expresar a los stakeholders, aspectos de modelado de la organización, así como decisiones de tecnología.\nUna de las ventajas de ArchiMate es que proporciona una representación visual y fomenta el uso de diferentes colores para resaltar las diferentes capas de modelado. Las tres principales capas: negocio, aplicación y tecnología, pertenecen a un marco completo que puede ampliarse con capas adicionales (física, estrategia y migración). Además, los métodos de arquitectura empresarial pueden utilizarse para proporcionar la estructura organizativa, los procesos de negocio y la infraestructura informática de una empresa. Aplicación en Rebel Rebel hace uso de modelos de Archimate compuestos por las capas Estrategia, Negocio y Aplicación. La capa Tecnología está contemplada para incluirse más adelante. Estas tres capas seleccionadas permiten alinear las necesidades de la organización con la arquitectura. Adicionalmente, Rebel extiende las capacidades de Archimate al permitir que se definan propiedades para las interfaces (elementos de la capa de aplicación a través de la cual un componente expone una funcionalidad). Estas propiedades se obtuvieron de la taxonomía de tipos de conectores (diagramas Componente \u0026amp; Conector) y sus dimensiones propuesta por Richard Taylor, entre las cuales están: Delivery, Buffering, Throughput, Synchronicity y Notification.\n"
+},
+{
+	"uri": "/2-case-study.html",
+	"title": "Caso de Estudio",
+	"tags": [],
+	"description": "",
+	"content": "Presentar la empresa con dos proyectos. Con uno se entrenará el modelo, y con el siguiente se usará el modelo.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab (illo) inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.\nNeque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et (dolore) magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\n"
+},
+{
+	"uri": "/3-scenarios.html",
+	"title": "Escenarios",
+	"tags": [],
+	"description": "",
+	"content": "Capítulo 3 Escenarios de Evaluación Midiendo la usabilidad y utilidad de Rebel\n"
+},
+{
+	"uri": "/3-scenarios/intro.html",
+	"title": "Presentación",
+	"tags": [],
+	"description": "",
+	"content": "Este estudio evalúa la usabilidad y utilidad de la herramienta Rebel a partir de cuatro (4) escenarios de evaluación aplicados sobre la arquitectura del caso de estudio .\nLa evaluación se realiza a través de un formulario de Google Forms, que inicia con tres (3) secciones que permitirán recopilar información técnica y de conocimiento de deuda técnica del participante. Estas tres secciones son independientes de los escenarios de evaluación de la herramienta. Las secciones del cuestionario se presentan a continuación:\n Sección 1: Caracterización Sección 2: Familiaridad Técnica Sección 3: Identificación de ATD  Posteriormente, se dará paso a los cuatro (4) escenarios de evaluación de la herramienta. Cada escenario está asociado a una sección del cuestionario, tal y como se presenta a continuación:\n Escenario 1 (Sección 4): Etapa 1: Preparación o carga de artefactos Escenario 2 (Sección 5): Etapa 2: Entrenamiento Escenario 3 (Sección 6): Etapa 3: Identificación Escenario 4 (Sección 7): Consideraciones generales  En las siguientes subsecciones se presentará una explicación generalizada de la herramienta Rebel, y se presentarán los escenarios de evaluación, cada uno acompañado de un extracto de video donde se muestra el aspecto a evaluar.\nSe recomienda responder las preguntas del cuestionario, a medida que se avanza en cada sección.\nIngrese al cuestionario de evaluación  y diligencie la información solicitada en las preguntas 1 a 17. Estas 17 preguntas corresponden a las primeras 3 secciones de caracterización del encuestado.\n"
+},
+{
+	"uri": "/3-scenarios/tool.html",
+	"title": "Rebel",
+	"tags": [],
+	"description": "",
+	"content": "Rebel es una herramienta semiautomática, basada en modelos, que se enfoca en la construcción de un modelo de clasificación binaria para la identificación de ATD, a partir de los artefactos producidos durante la etapa de diseño de la arquitectura del sistema. Este modelo identificará items candidatos de ATD y el arquitecto será el responsable de aceptar o rechazar los candidatos.\nEsta propuesta se centra en la TD a nivel de arquitectura, sin tener en cuenta el código fuente. Se espera que funcione con equipos de software que manejen varias versiones de la arquitectura y varios artefactos heterogéneos.\nEl elemento central de esta propuesta es el Bloque de Interés (BoI). Un BoI representa la evolución de los elementos de la arquitectura durante el diseño del software. Una BoI se compone de hechos (facts), donde cada hecho (fact) representa un cambio en la relación de elemento arquitectónico, o de sus propiedades. Por ejemplo, si en la versión 1 de un modelo existen los componentes C1 y C2, y en la versión 2 se crea una relación entre ellos, entonces esta relación corresponderá a un Hecho (Fact). Del mismo modo, los componentes C1 y C2 corresponderán a Hechos (Facts).\nLa idea de Rebel, es que un hecho es la mínima expresión de un item de ATD, y por lo tanto, esta propuesta busca describir todos los hechos, a partir de las versiones de modelos, para que el arquitecto pueda realizar una marcación manual de items de ATD. A partir de esta marcación manual, se entrena un modelo, para ser usado en nuevos BoIs para identificar de forma automática la ATD sobre los hechos de esos modelos.\nLas tres etapas contempladas en Rebel son:\n Preparación: En esta etapa se deben cargar los artefactos producidos durante la etapa de diseño de la arquitectura, tales como modelos en Archimate, modelos Componente y Conector (C\u0026amp;C), chats, emails, decisiones de arquitectura, y logs de commits. Entrenamiento: En esta etapa el arquitecto crear un BoI a partir de un modelo de Archimate, y marca todos los hechos (facts) que considera como items de ATD. Adicionalmente, debe justificarlos. Identificación: En esta etapa el arquitecto deberá crear un BoI y el modelo entrenado de identificación, se encargará de marcar como items candidatos de ATD a todos aquellos hechos (facts) que cumplan con determinadas características.  "
+},
+{
+	"uri": "/3-scenarios/1.html",
+	"title": "E1: Preparación",
+	"tags": [],
+	"description": "",
+	"content": "Escenario 1: Preparación o carga de artefactos Este escenario se enfoca en las operaciones de carga de artefactos de varios tipos, o heterogéneos, y su asociación a un proyecto.\nPor favor responda las preguntas 18 a 23 después de observar el siguiente video:\n  "
+},
+{
+	"uri": "/3-scenarios/2.html",
+	"title": "E2: Entrenamiento",
+	"tags": [],
+	"description": "",
+	"content": "Escenario 2: Entrenamiento Este escenario se enfoca en la creación de un Bloque de Interés (BoI), dentro de un proyecto, y la identificación manual de casos de ATD. Esta información será luego utilizada para entrenar un modelo de machine learning que permita identificar de forma automática casos de ATD.\nPor favor responda las preguntas 24 a 41 después de observar el siguiente video:\n  "
+},
+{
+	"uri": "/3-scenarios/3.html",
+	"title": "E3: Identificación",
+	"tags": [],
+	"description": "",
+	"content": "Escenario 3: Identificación Este escenario se enfoca en cargar la identificación automática de casos de ATD, dentro de un BoI definido.\nPor favor responda las preguntas 42 a 49 después de observar el siguiente video:\n  "
+},
+{
+	"uri": "/3-scenarios/4.html",
+	"title": "E4: Generalidades",
+	"tags": [],
+	"description": "",
+	"content": "Escenario 4: Consideraciones generales Este escenario se enfoca en la usabilidad, interés y capacidad integración dentro de las organizaciones.\nPor favor responda las preguntas 50 a 57 después de observar el siguiente video:\n  "
+},
+{
+	"uri": "/4-wrapup.html",
+	"title": "Conclusiones",
+	"tags": [],
+	"description": "",
+	"content": "Agradecemos su participación en el desarrollo de este estudio. En este taller se contemplaron cuatro (4) escenarios de evaluación que permitirán establecer fortalezas y debilidades, y al mismo tiempo, establecer una ruta de mejoras, tanto en desarrollo como en investigación.\nLos resultados de este estudio serán compartidos con quienes hayan marcado la opción en la encuesta. Para mayor información acerca de las herramientas utilizadas o investigaciones publicadas alrededor de este tema, por favor referirse a los siguientes enlaces:\nHerramientas  render-diagram  Angular  Eclipse Modeling Project   Publicaciones  A Semiautomatic Approach to Identify Architectural Technical Debt from Heterogeneous Artifacts.  A Proposed Model-driven Approach to Manage Architectural Technical Debt Life Cycle.  How do software architects perceive technical debt in Colombian industry? An analysis of technical debt causes   "
+},
+{
+	"uri": "/categories.html",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags.html",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

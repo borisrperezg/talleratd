@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introducción on Taller de Deuda Técnica en Arquitectura</title>
+    <link>/1-intro.html</link>
+    <description>Recent content in Introducción on Taller de Deuda Técnica en Arquitectura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="/1-intro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentación</title>
+      <link>/1-intro/1-presentation.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1-intro/1-presentation.html</guid>
+      <description>Este taller tiene como propósito evaluar la usabilidad y utilidad de la herramienta Rebel para identificar items de Deuda técnica en arquitectura (ATD)  a partir de analizar un conjunto de artefactos producidos durante la etapa de diseño de la arquitectura, y de analizar la evolución o cambios producidos entre versiones de modelos de arquitectura diseñados en Archimate . Este estudio hace parte de la investigación del trabajo de doctorado del estudiante Boris Pérez (br.</description>
+    </item>
+    
+    <item>
+      <title>ATD</title>
+      <link>/1-intro/2-atd.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1-intro/2-atd.html</guid>
+      <description>La Deuda Técnica en Arquitectura (ATD) es una metáfora utilizada para expresar el conjunto de decisiones de arquitectura que buscan favorecer ciertos objetivos a corto plazo, pero causando un impacto negativo en la calidad interna del sistema, como la mantenibilidad y capacidad de evolución. Típicamente, la ATD incluye Architecural Smells, uso de anti-patrones de arquitectura, violaciones de buenas prácticas arquitecturales, entre otros.
+El problema de la deuda aparece cuando no se documenta, y por lo tanto, se pierde de vista.</description>
+    </item>
+    
+    <item>
+      <title>Archimate</title>
+      <link>/1-intro/3-archimate.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1-intro/3-archimate.html</guid>
+      <description>Archimate es una especificación, para el modelado de arquitecturas empresariales. Provee un lenguaje visual con un conjunto de iconografías para describir, analizar, y comunicar aspectos de arquitectura de TI. El objetivo de Archimate es proveer una representación uniforme para expresar a los stakeholders, aspectos de modelado de la organización, así como decisiones de tecnología.
+Una de las ventajas de ArchiMate es que proporciona una representación visual y fomenta el uso de diferentes colores para resaltar las diferentes capas de modelado.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/1-intro/1-presentation.html</loc>
+  </url>
+  
+  <url>
+    <loc>/1-intro.html</loc>
+  </url>
+  
+  <url>
+    <loc>/1-intro/2-atd.html</loc>
+  </url>
+  
+  <url>
+    <loc>/1-intro/3-archimate.html</loc>
+  </url>
+  
+  <url>
+    <loc>/2-case-study.html</loc>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/intro.html</loc>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/tool.html</loc>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/1.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/2.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/3.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/4.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/4-wrapup.html</loc>
+  </url>
+  
+  <url>
+    <loc>/categories.html</loc>
+  </url>
+  
+  <url>
+    <loc>/tags.html</loc>
+  </url>
+  
+</urlset>
