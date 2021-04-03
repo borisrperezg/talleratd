@@ -11,26 +11,18 @@ Para este taller se utilizarán dos proyectos, el primero tendrá el propósito 
 
 Este proyecto tiene como motivación (driver) la reducción en los costos de tratamiento de los pacientes al interior de una clínica. Uno de los objetivos (goal) perseguidos con este driver es alcanzar la automatización del proceso de asignación de cita y tratamiento del paciente. Esto se espera lograr (outcome) a través del incremento de un 50% en la automatización del servicio.
 
-Para esto, el equipo de arquitectos realizó 4 versiones, de forma incremental, de una propuesta de arquitectura. Cada modelo se llama LayeredView_[yyyymmdd], y fueron desarrollados en [Archi](https://www.archimatetool.com/). A continuación se presentan las cuatro versiones. Se recomienda abrir en otra pestaña.
+Para esto, el equipo de arquitectos realizó 4 versiones, de forma incremental, de una propuesta de arquitectura. Cada modelo se llama LayeredView_[yyyymmdd], y fueron desarrollados en [Archi](https://www.archimatetool.com/). A continuación se presentan las cuatro versiones. Se recomiendan abrir en otra pestaña.
 
 * [LayeredView_20201022](https://talleratd.onrender.com/images/LayeredView_20201022.png)
 * [LayeredView_20201027](https://talleratd.onrender.com/images/LayeredView_20201027.png)
 * [LayeredView_20201104](https://talleratd.onrender.com/images/LayeredView_20201104.png)
 * [LayeredView_20201108](https://talleratd.onrender.com/images/LayeredView_20201108.png)
 
-#### Proyecto 2: Servicio al Vehículo (Car Service)
+#### Proyecto 2: Manufactura (Production Service)
 
+Este segundo proyecto, que además se usará para revisar la identificación automática de ATD, tiene como motivación (driver) mejorar el proceso de producción de materiales, con el objetivo (goal) de reducir al mínimo la definición del proceso correspondiente. Esto se espera lograr (outcome) a través de la reducción de un 20% en la burocracía de servicios.
 
+Para esto, el equipo de arquitectos realizó 2 versiones, de forma incremental, de una propuesta de arquitectura. Cada modelo se llama LayeredView_[yyyymmdd], y fueron desarrollados en [Archi](https://www.archimatetool.com/). A continuación se presentan las dos versiones. Se recomiendan abrir en otra pestaña.
 
-[Proyecto 1] Entrenar el modelo
-[Proyecto 2] Usar el modelo
-
-
-Presentar la empresa con dos proyectos. Con uno se entrenará el modelo, y con el siguiente se usará el modelo.
-
-
-
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab (*illo*) inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
-
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et (**dolore**) magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+* [LayeredView_20210208](https://talleratd.onrender.com/images/LayeredView_20210208.png)
+* [LayeredView_20210215](https://talleratd.onrender.com/images/LayeredView_20210215.png)
