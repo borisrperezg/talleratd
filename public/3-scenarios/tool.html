@@ -12,21 +12,21 @@
     <title>Rebel :: Taller de Deuda Técnica en Arquitectura</title>
 
     
-    <link href="/css/nucleus.css?1617491280" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1617491280" rel="stylesheet">
-    <link href="/css/hybrid.css?1617491280" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1617491280" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1617491280" rel="stylesheet">
-    <link href="/css/auto-complete.css?1617491280" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1617491280" rel="stylesheet">
-    <link href="/css/theme.css?1617491280" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1617491280" rel="stylesheet">
+    <link href="/css/nucleus.css?1618032002" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1618032002" rel="stylesheet">
+    <link href="/css/hybrid.css?1618032002" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1618032002" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1618032002" rel="stylesheet">
+    <link href="/css/auto-complete.css?1618032002" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1618032002" rel="stylesheet">
+    <link href="/css/theme.css?1618032002" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1618032002" rel="stylesheet">
     
-    <link href="/css/theme-mine.css?1617491280" rel="stylesheet">
+    <link href="/css/theme-mine.css?1618032002" rel="stylesheet">
     
     
 
-    <script src="/js/jquery-3.3.1.min.js?1617491280"></script>
+    <script src="/js/jquery-3.3.1.min.js?1618032002"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -598,15 +598,16 @@
         
 
 
-<p>Rebel es una herramienta semiautomática, basada en modelos, que se enfoca en la construcción de un modelo de clasificación binaria para la identificación de ATD, a partir de los artefactos producidos durante la etapa de diseño de la arquitectura del sistema. Este modelo identificará items candidatos de ATD y el arquitecto será el responsable de aceptar o rechazar los candidatos.</p>
+<p>Rebel es una herramienta semiautomática, basada en modelos, que se enfoca en la construcción de un modelo de clasificación binaria para la identificación de ATD, a partir de los artefactos producidos durante la etapa de diseño de la arquitectura del sistema. Este modelo identificará automáticamente items candidatos de ATD y el arquitecto será el responsable de aceptar o rechazar los candidatos.</p>
 <p>Esta propuesta se centra en la TD a nivel de arquitectura, sin tener en cuenta el código fuente. Se espera que funcione con equipos de software que manejen varias versiones de la arquitectura y varios artefactos heterogéneos.</p>
 <p>El elemento central de esta propuesta es el Bloque de Interés (BoI). Un BoI representa la evolución de los elementos de la arquitectura durante el diseño del software. Una BoI se compone de hechos (facts), donde cada hecho (fact) representa un cambio en la relación de elemento arquitectónico, o de sus propiedades. Por ejemplo, si en la versión 1 de un modelo existen los componentes C1 y C2, y en la versión 2 se crea una relación entre ellos, entonces esta relación corresponderá a un Hecho (Fact). Del mismo modo, los componentes C1 y C2 corresponderán a Hechos (Facts).</p>
-<p>La idea de Rebel, es que un hecho es la mínima expresión de un item de ATD, y por lo tanto, esta propuesta busca describir todos los hechos, a partir de las versiones de modelos, para que el arquitecto pueda realizar una marcación manual de items de ATD. A partir de esta marcación manual, se entrena un modelo, para ser usado en nuevos BoIs para identificar de forma automática la ATD sobre los hechos de esos modelos.</p>
+<p>La idea de Rebel, es que un hecho es la mínima expresión de un item de ATD, y por lo tanto, esta propuesta busca describir todos los hechos, a partir de las versiones de modelos, para que el arquitecto pueda realizar una marcación manual de items de ATD. A partir de esta marcación manual, se entrena un modelo, para ser usado en nuevos BoIs para identificar de forma automática la ATD sobre los hechos de esos modelos. Es importante mencionar que en la medida que se tengan más datos de Proyectos y ATD identificadas, más candidatos confirmados/rechazados por arquitectos, el modelo irá mejorando su precisión.</p>
+<p>Lo que se busca al marcar cada uno de estos Hechos como ATD, es permitirle al modelo que aprenda sobre comportamientos o estructuras que deben inferirse en nuevos modelos. Esto es, si al interior de una empresa de software está establecido que las dependencias cíclicas son ATD, y así mismo se entrena un modelo con esta información, entonces, cada nuevo BoI donde se presenten dependencias cíclicas serán considerados ATD.</p>
 <p>Las tres etapas contempladas en Rebel son:</p>
 <ul>
 <li><strong>Preparación:</strong> En esta etapa se deben cargar los artefactos producidos durante la etapa de diseño de la arquitectura, tales como modelos en Archimate, modelos Componente y Conector (C&amp;C), chats, emails, decisiones de arquitectura, y logs de commits.</li>
 <li><strong>Entrenamiento:</strong> En esta etapa el arquitecto crear un BoI a partir de un modelo de Archimate, y marca todos los hechos (facts) que considera como items de ATD. Adicionalmente, debe justificarlos.</li>
-<li><strong>Identificación:</strong> En esta etapa el arquitecto deberá crear un BoI y el modelo entrenado de identificación, se encargará de marcar como items candidatos de ATD a todos aquellos hechos (facts) que cumplan con determinadas características.</li>
+<li><strong>Identificación:</strong> En esta etapa el arquitecto deberá crear un BoI y el modelo entrenado de identificación se encargará de marcar como items candidatos de ATD a todos aquellos hechos (facts) que cumplan con determinadas características.</li>
 </ul>
 
 
@@ -877,19 +878,19 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1617491280"></script>
-    <script src="/js/perfect-scrollbar.min.js?1617491280"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1617491280"></script>
-    <script src="/js/jquery.sticky.js?1617491280"></script>
-    <script src="/js/featherlight.min.js?1617491280"></script>
-    <script src="/js/highlight.pack.js?1617491280"></script>
+    <script src="/js/clipboard.min.js?1618032002"></script>
+    <script src="/js/perfect-scrollbar.min.js?1618032002"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1618032002"></script>
+    <script src="/js/jquery.sticky.js?1618032002"></script>
+    <script src="/js/featherlight.min.js?1618032002"></script>
+    <script src="/js/highlight.pack.js?1618032002"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1617491280"></script>
-    <script src="/js/learn.js?1617491280"></script>
-    <script src="/js/hugo-learn.js?1617491280"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1618032002"></script>
+    <script src="/js/learn.js?1618032002"></script>
+    <script src="/js/hugo-learn.js?1618032002"></script>
     
         
-            <script src="/mermaid/mermaid.js?1617491280"></script>
+            <script src="/mermaid/mermaid.js?1618032002"></script>
         
         <script>
             mermaid.initialize({ startOnLoad: true });

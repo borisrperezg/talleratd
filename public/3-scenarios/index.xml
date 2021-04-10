@@ -23,7 +23,7 @@ La evaluación se realiza a través de un formulario de Google Forms, que inicia
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/3-scenarios/tool.html</guid>
-      <description>Rebel es una herramienta semiautomática, basada en modelos, que se enfoca en la construcción de un modelo de clasificación binaria para la identificación de ATD, a partir de los artefactos producidos durante la etapa de diseño de la arquitectura del sistema. Este modelo identificará items candidatos de ATD y el arquitecto será el responsable de aceptar o rechazar los candidatos.
+      <description>Rebel es una herramienta semiautomática, basada en modelos, que se enfoca en la construcción de un modelo de clasificación binaria para la identificación de ATD, a partir de los artefactos producidos durante la etapa de diseño de la arquitectura del sistema. Este modelo identificará automáticamente items candidatos de ATD y el arquitecto será el responsable de aceptar o rechazar los candidatos.
 Esta propuesta se centra en la TD a nivel de arquitectura, sin tener en cuenta el código fuente.</description>
     </item>
     
@@ -33,7 +33,7 @@ Esta propuesta se centra en la TD a nivel de arquitectura, sin tener en cuenta e
       <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
       
       <guid>/3-scenarios/1.html</guid>
-      <description>Escenario 1: Preparación o carga de artefactos Este escenario se enfoca en las operaciones de carga de artefactos de varios tipos, o heterogéneos, y su asociación a un proyecto.
+      <description>Escenario 1: Preparación o carga de artefactos Este escenario se enfoca en las operaciones de carga de artefactos de varios tipos, o heterogéneos, y su asociación a un proyecto. Entre los artefactos utilizados están: modelos Archimate, decisiones de arquitectura, logs de chat, correos y logs de commits.
 Por favor responda las preguntas 18 a 23 después de observar el siguiente video:
   </description>
     </item>
