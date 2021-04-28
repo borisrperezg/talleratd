@@ -15,9 +15,9 @@ La evaluación se realiza a través de un formulario de Google Forms, que inicia
 
 Posteriormente, se dará paso a los cuatro (4) escenarios de evaluación de la herramienta. Cada escenario está asociado a una sección del cuestionario, tal y como se presenta a continuación:
 
-* **Sección 4 (Escenario de evaluación E1):** Etapa 1: Preparación o carga de artefactos
-* **Sección 5 (Escenario de evaluación E2):** Etapa 2: Entrenamiento
-* **Sección 6 (Escenario de evaluación E3):** Etapa 3: Identificación
+* **Sección 4 (Escenario de evaluación E1):** Etapa 1: Extracción o carga de artefactos
+* **Sección 5 (Escenario de evaluación E2):** Etapa 2: Síntesis
+* **Sección 6 (Escenario de evaluación E3):** Etapa 3: Aprendizaje
 * **Sección 7 (Escenario de evaluación E4):** Consideraciones generales
 
 En las siguientes subsecciones se presentará una explicación generalizada de la herramienta Rebel, y se presentarán los escenarios de evaluación, cada uno acompañado de un extracto de video donde se muestra el aspecto a evaluar. 

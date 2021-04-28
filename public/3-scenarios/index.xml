@@ -28,34 +28,34 @@ Esta propuesta se centra en la TD a nivel de arquitectura, sin tener en cuenta e
     </item>
     
     <item>
-      <title>E1: Preparación</title>
+      <title>E1: Extracción</title>
       <link>/3-scenarios/1.html</link>
       <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
       
       <guid>/3-scenarios/1.html</guid>
-      <description>Escenario 1: Preparación o carga de artefactos Este escenario se enfoca en las operaciones de carga de artefactos de varios tipos, o heterogéneos, y su asociación a un proyecto. Entre los artefactos utilizados están: modelos Archimate, decisiones de arquitectura, logs de chat, correos y logs de commits.
+      <description>Escenario 1: Extracción Este escenario se enfoca en las operaciones de carga de artefactos de varios tipos, o heterogéneos, y su asociación a un proyecto. Entre los artefactos utilizados están: modelos Archimate, decisiones de arquitectura, logs de chat, correos y logs de commits.
 Por favor responda las preguntas 18 a 23 después de observar el siguiente video:
   </description>
     </item>
     
     <item>
-      <title>E2: Entrenamiento</title>
+      <title>E2: Síntesis</title>
       <link>/3-scenarios/2.html</link>
       <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
       
       <guid>/3-scenarios/2.html</guid>
-      <description>Escenario 2: Entrenamiento Este escenario se enfoca en la creación de un Bloque de Interés (BoI), dentro de un proyecto, y la identificación manual de casos de ATD. Esta información será luego utilizada para entrenar un modelo de machine learning que permita identificar de forma automática casos de ATD.
+      <description>Escenario 2: Síntesis Este escenario se enfoca en la creación de un Bloque de Interés (BoI), dentro de un proyecto, y la identificación manual de casos de ATD.
 Por favor responda las preguntas 24 a 41 después de observar el siguiente video:
   </description>
     </item>
     
     <item>
-      <title>E3: Identificación</title>
+      <title>E3: Aprendizaje</title>
       <link>/3-scenarios/3.html</link>
       <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
       
       <guid>/3-scenarios/3.html</guid>
-      <description>Escenario 3: Identificación Este escenario se enfoca en cargar la identificación automática de casos de ATD, dentro de un BoI definido.
+      <description>Escenario 3: Aprendizaje Este escenario se enfoca en el entrenamiento de un modelo de machine learning que permita identificar de forma automática casos de ATD. Adicionalmente, revisa la identificación automática de casos de ATD, dentro de un BoI definido.
 Por favor responda las preguntas 42 a 49 después de observar el siguiente video:
   </description>
     </item>

@@ -17,6 +17,6 @@ Lo que se busca al marcar cada uno de estos Hechos como ATD, es permitirle al mo
 
 Las tres etapas contempladas en Rebel son: 
 
-* **Preparación:** En esta etapa se deben cargar los artefactos producidos durante la etapa de diseño de la arquitectura, tales como modelos en Archimate, modelos Componente y Conector (C&C), chats, emails, decisiones de arquitectura, y logs de commits.
-* **Entrenamiento:** En esta etapa el arquitecto crear un BoI a partir de un modelo de Archimate, y marca todos los hechos (facts) que considera como items de ATD. Adicionalmente, debe justificarlos.
-* **Identificación:** En esta etapa el arquitecto deberá crear un BoI y el modelo entrenado de identificación se encargará de marcar como items candidatos de ATD a todos aquellos hechos (facts) que cumplan con determinadas características.
+* **Extracción:** En esta etapa se deben cargar los artefactos producidos durante la etapa de diseño de la arquitectura, tales como modelos en Archimate, modelos Componente y Conector (C&C), chats, emails, decisiones de arquitectura, y logs de commits.
+* **Síntesis:** En esta etapa el arquitecto crear un BoI a partir de un modelo de Archimate, y marca todos los hechos (facts) que considera como items de ATD. Adicionalmente, debe justificarlos.
+* **Aprendizaje:** En esta etapa, se implementará un modelo supervisa de machine learning para apoyar la identificación de la ATD. Del mismo modo, el arquitecto deberá crear un BoI y el modelo entrenado de identificación se encargará de marcar como items candidatos de ATD a todos aquellos hechos (facts) que cumplan con determinadas características.
