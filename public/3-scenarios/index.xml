@@ -44,7 +44,7 @@ Por favor responda las preguntas 18 a 23 después de observar el siguiente video
       <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
       
       <guid>/3-scenarios/2.html</guid>
-      <description>Escenario 2: Síntesis Este escenario se enfoca en la creación de un Bloque de Interés (BoI), dentro de un proyecto, y la identificación manual de casos de ATD.
+      <description>Escenario 2: Síntesis Este escenario se enfoca en la creación de un Bloque de Interés (BoI), dentro de un proyecto, y la identificación manual de casos de ATD. Esta información será luego utilizada (Escenario 3) para entrenar un modelo de machine learning que permita identificar de forma automática casos de ATD.
 Por favor responda las preguntas 24 a 41 después de observar el siguiente video:
   </description>
     </item>
